@@ -1,0 +1,1 @@
+This is a Flask project template that utilizes Bootstrap for styling, Jinja for templating, and WTForms for form validation. The project aims to provide a quick starting point for building web applications using Flask with a clean and responsive UI design.
