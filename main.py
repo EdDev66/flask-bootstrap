@@ -65,9 +65,6 @@ def add_cafe():
 
         return render_template('cafes.html', cafes=list_of_rows)
 
-    # Exercise:
-    # Make the form write a new row into cafe-data.csv
-    # with   if form.validate_on_submit()
     return render_template('add.html', form=form)
 
 
